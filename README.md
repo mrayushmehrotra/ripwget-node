@@ -11,7 +11,13 @@ This is not as efficient as curl tool is but it has 0.5% faster response as comp
 ## Installation
 
 1- Clone this repository by Git Clone
-2-You Need to have nodejs and Npm Installed before this steps
+
+---
+
+2- You Need to have nodejs and Npm Installed before this steps
+
+---
+
 3-Follow This steps
 
 ```bash
