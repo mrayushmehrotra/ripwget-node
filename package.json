@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "node index.js",
+    "start": "node index.js",
     "build": "babel src -d dist",
     "publish": "npm run build"
   },
@@ -16,6 +16,7 @@
     "axios": "^1.6.2",
     "content-disposition": "^0.5.4",
     "curlconverter": "^4.8.1",
+    "progress": "^2.0.3",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
